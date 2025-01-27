@@ -45,3 +45,7 @@
 - 写真添付機能：carrierwave,mini_magickを使用して写真を編集、アップロード、管理
 - グラフ機能：記録データを集計し、グラフジェム(chartkick等)を利用して可視化。
 - 記録入力のフィールド実装
+
+## 画面遷移図URL
+
+https://www.figma.com/design/eLyBKn1qYTNvurOYJ40djX/Untitled?node-id=0-1&t=8HAa4GXIPeo4ldpL-1
