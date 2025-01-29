@@ -51,4 +51,4 @@
 https://www.figma.com/design/eLyBKn1qYTNvurOYJ40djX/Untitled?node-id=0-1&t=8HAa4GXIPeo4ldpL-1
 
 ## ER図URL
-https://gyazo.com/e02bb830a173d8dbdb4718bfd70ab9a5
+https://gyazo.com/373e3ef52492a3f0db69d03816e58992
